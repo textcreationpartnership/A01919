@@ -35,13 +35,17 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-GLoria, diuitiae, forma, aetas, ſceptráque regum,Quàm ſint res fluxae, triſtis imago docet.
-1. In eandem.
 
-1. ✚ MARIA DEI GRATIA SCOTORVM REGINAportrait of Mary Queen of Scots
+1. In effigiem MARIAE REGINAE,
+Jacob. Magni. Britan. Reg. Matris.
+GLoria, diuitiae, forma, aetas, ſceptráque regum,Quàm ſint res fluxae, triſtis imago docet.
+    _ In eandem.
+
+    _ ✚ MARIA DEI GRATIA SCOTORVM REGINAportrait of Mary Queen of Scots
 
 #####Back#####
-In effigiem Mariæ Reginæ, Jacob. Magni. Reg. matris I. Gordonius.Gordon, John, 1544-1619.1603Approx.
+Excuſum Londini Typis Johannis Norton, Illuſtriſſimae Regiae Maieſtati
+in Latinis, Graecis, & Hebrai
 **Types of content**
 
   * There are 15 **verse** lines!
